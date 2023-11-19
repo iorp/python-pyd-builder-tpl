@@ -1,8 +1,7 @@
 Create a wheel 
 
 # Install wheel  
-```shell 
-# DEPRECATED: python setup.py build_ext --build-lib ./build
+```shell  
 pip install wheel 
 ```
 
