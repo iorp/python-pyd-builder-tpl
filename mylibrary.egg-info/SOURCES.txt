@@ -1,0 +1,11 @@
+README.md
+setup.py
+mylibrary/__init__.py
+mylibrary/mylibrary.c
+mylibrary.egg-info/PKG-INFO
+mylibrary.egg-info/SOURCES.txt
+mylibrary.egg-info/dependency_links.txt
+mylibrary.egg-info/not-zip-safe
+mylibrary.egg-info/top_level.txt
+mylibrary/mypackage1/__init__.py
+mylibrary/mypackage2/__init__.py
